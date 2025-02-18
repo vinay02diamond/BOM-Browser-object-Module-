@@ -24,5 +24,5 @@ This project explores the **Browser Object Model (BOM)** in JavaScript. It inclu
 ## 🚀 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/BOM-Learning.git
+   git clone https://github.com/vinay02diamond/BOM-Learning.git
 
