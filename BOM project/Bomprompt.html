@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>New BOM Prompt</title>
+</head>
+<body>
+    <div id="box1">
+        <p>Bom training!</p>
+    </div>
+    <h1>Besant Technologies</h1>
+    <button onclick ="deleteData()">delete</button>
+    <script> 
+
+
+    var x =prompt('Enter color name:','yellow');
+    document.getElementsByTagName('body')[0].style.backgroundColor=x;
+    console.log(x);
+</script>
+
+<script src="bomprompt.js"></script>
+</body>
+</html>
